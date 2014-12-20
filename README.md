@@ -1,5 +1,4 @@
 inter_manager
 =============
 
-
-Thirst commit
+In perspective my time-killer project
